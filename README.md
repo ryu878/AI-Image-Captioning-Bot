@@ -3,16 +3,13 @@
 ### Tech: Python, BLIP2 or GPT-4V, Gradio, Hugging Face
 ### Description: Upload any image and get a detailed, human-like caption. Add optional meme/Instagram-style generation.
 
-
+```
 📦 ai-image-captioning-bot/
-
 ├── app.py                # Main Gradio app
-
 ├── caption.py            # Caption generation logic
-
 ├── requirements.txt      # Dependencies
-
 └── README.md             # This file
+```
 
 ### 🔧 Features
 - 🔍 BLIP-2 transformer-based image captioning
