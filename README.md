@@ -10,6 +10,15 @@
 
 └── README.md             # This file
 
+### 🧠 Models Used
+- Salesforce/BLIP2
+
+- transformers
+
+- gradio
+
+You can easily switch to other Hugging Face models if needed.
+
 
 ### 1. Clone the repo and cd into it
 ```
