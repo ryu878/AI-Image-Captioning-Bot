@@ -19,3 +19,9 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+### 5. ToDo
+- Add Docker support
+
+- Add batch captioning for multiple images
+
+- Use GitHub Actions to auto-deploy the app (e.g., to Hugging Face Spaces or Fly.io)
