@@ -4,7 +4,7 @@
 ### Description: Upload any image and get a detailed, human-like caption. Add optional meme/Instagram-style generation.
 
 ```
-📦 ai-image-captioning-bot/
+📦 AI-Image-Captioning-Bot/
 ├── app.py                # Main Gradio app
 ├── caption.py            # Caption generation logic
 ├── requirements.txt      # Dependencies
@@ -33,7 +33,7 @@ You can easily switch to other Hugging Face models if needed.
 ### 1. Clone the repo and cd into it
 ```
 git clone https://github.com/ryu878/AI-Image-Captioning-Bot.git
-cd ai-image-captioning-bot
+cd AI-Image-Captioning-Bot
 ```
 ### 2. Set up and activate virtual environment
 ```
