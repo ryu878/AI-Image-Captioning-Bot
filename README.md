@@ -1,10 +1,15 @@
 # AI Image Captioning Bot
 
 📦 ai-image-captioning-bot/
+
 ├── app.py                # Main Gradio app
+
 ├── caption.py            # Caption generation logic
+
 ├── requirements.txt      # Dependencies
+
 └── README.md             # This file
+
 
 ### 1. Clone the repo and cd into it
 ```
