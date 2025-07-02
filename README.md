@@ -10,6 +10,15 @@
 
 └── README.md             # This file
 
+### 🔧 Features
+- 🔍 BLIP-2 transformer-based image captioning
+
+- ⚡ Fast local inference via HuggingFace
+
+- 🖥️ Web UI powered by Gradio
+
+- 🧠 Optionally generate fun/meme-style or professional captions
+
 ### 🧠 Models Used
 - Salesforce/BLIP2
 
