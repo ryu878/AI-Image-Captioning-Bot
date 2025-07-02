@@ -19,7 +19,7 @@
 
 You can easily switch to other Hugging Face models if needed.
 
-
+### 📦 Installation
 ### 1. Clone the repo and cd into it
 ```
 git clone https://github.com/yourusername/ai-image-captioning-bot.git
