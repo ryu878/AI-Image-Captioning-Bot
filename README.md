@@ -57,3 +57,10 @@ python app.py
 - Add batch captioning for multiple images
 
 - Use GitHub Actions to auto-deploy the app (e.g., to Hugging Face Spaces or Fly.io)
+
+## Contacts
+To contact me please pm:
+
+Telegram: https://t.me/ryu8777
+
+Discord: https://discord.gg/zSw58e9Uvf
