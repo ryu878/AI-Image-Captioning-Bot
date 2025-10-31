@@ -55,6 +55,7 @@ python app.py
 
 - Use GitHub Actions to auto-deploy the app (e.g., to Hugging Face Spaces or Fly.io)
 
+***
 
 ## 📄 License
 MIT License - Feel free to modify and distribute.
